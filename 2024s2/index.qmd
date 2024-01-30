@@ -1,0 +1,74 @@
+---
+title: "MATH 3190T3 -- TJ RESEARCH STATISTICS III"
+subtitle: "Academic Year: 2023/24"
+format: html
+---
+
+::: {.callout-important collapse=false}
+## 📢 Important
+
+(1/30/2024)
+
+- Welcome to the site!
+- [🗓️ Week 01 lecture material](/2023/weeks/week01/page.qmd) is now available!
+
+:::
+
+
+# 🧑🏻‍🏫 Our Team
+
+::: {.panel-tabset}
+## Course Convenor
+
+
+![](/figures/people/professor_octopus.png){fig-align="left" fig-alt="Photo of Dr. MY NAME" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}  
+**[Dr. Scott](https://tjhsst.fcps.edu/staff/catherine-scott)** <br/>
+_MY_JOB_TITLE_ <br/>
+[TJHSST](https://tjhsst.fcps.edu)</a><br/>
+📧 [cescott@fcps.edu](mailto:cescott@fcps.edu)
+
+Office Hours: 
+
+- When:
+- Where:
+- How to book:
+
+## Teaching Staff
+
+![](/figures/people/ta_octopunian.png){fig-align="left" fig-alt="Photo of TA_NAME" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}  
+**[TA_NAME](#)** <br/>
+PhD Candidate at PLACE <br> 
+📧 [EMAIL](mailto:)
+
+:::
+
+# 💻 Periods
+
+::: {style="display:inline-block;width: 28.5%;border-style: dotted;border-width: 1px;border-color: &quot;#fefefe&quot;; margin:1%;padding:1.5%;background-color:#fafafa"}
+**3rd Period**
+
+- 📆 Mondays
+- ⌚ 09:00 - 10:30d
+- 📍 
+- 🧑‍🏫 _TA_NAME_
+:::
+
+::: {style="display:inline-block;width: 28.5%;border-style: dotted;border-width: 1px;border-color: &quot;#fefefe&quot;; margin:1%;padding:1.5%;background-color:#fafafa"}
+**Group 02**
+
+            
+- 📆 Mondays
+- ⌚ 10:30 - 12:00
+- 📍 
+- 🧑‍🏫 _TA_NAME_
+            
+:::
+
+::: {style="display:inline-block;width: 28.5%;border-style: dotted;border-width: 1px;border-color: &quot;#fefefe&quot;; margin:1%;padding:1.5%;background-color:#fafafa"}
+**Group 03**
+
+- 📆 Fridays
+- ⌚ 16:00 - 17:30
+- 📍 
+- 🧑‍🏫 _TA_NAME_
+:::

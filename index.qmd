@@ -1,5 +1,5 @@
 ---
-title: "MY COURSE CODE - MY COURSE NAME"
+title: "Math 3190T3 - Research Statistics III"
 format:
   html:
     include-before-body: helpers/remove-nav.html
@@ -8,24 +8,23 @@ format:
 
 # 📑 Course Brief
 
-**Focus:** the focus of this course is to learn stuff
+**Focus:** Research Statistics 3 is an advanced high school course in statistics.	
 
 **How:** hands-on learning
 
 # 🎯 Learning Objectives
 
-- You will discover how to do X
-- Distinguish X from **X**
-- Practice how to put things _in italic_
-- Discover how to highlight `code` inline
-- Proceed to learn stuff
-
+- You will gain exposure to three commonly used types of models: regression, ANOVA, and logistic regression
+- Study model techniques and analysis
+- Explore statistical computing
+- Improve critical thinking and written communication
+- Cumulatively build models
 
 -----------------
 
 **Select Academic Year/Term:**
 
-<a href="2023/index.qmd">
-    <button class="button-61">2022/23</button>
+<a href="2024s2/index.qmd">
+    <button class="button-61">2023/24 Semester 2</button>
 </a>
 
