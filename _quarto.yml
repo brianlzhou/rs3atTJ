@@ -5,7 +5,7 @@ project:
   render:
     - "index.qmd"
     - "2024s2/*.qmd"
-    - "2024s2/*.qmd"
+    - "2024s2/info/*.qmd"
     - "2024s2/weeks/week01/*.qmd"
 
 website:
@@ -27,9 +27,9 @@ website:
         text: "🏠 Home"
       - section: "📚 Course Info"
         contents:
-         - href: 2024s2/syllabus.qmd
+         - href: 2024s2/info/syllabus.qmd
            text: "📓 Syllabus"
-         - href: 2024s2/usingr.qmd
+         - href: 2024s2/info/usingr.qmd
            text: "📋 Using R"
       # - href: 2023/communication.qmd
       #   text: "📟 Communication"
@@ -88,4 +88,7 @@ format:
 
 margin-header: |
  ![](/figures/logos/tjhsst.png)
+ 
+execute:
+  freeze: auto
 

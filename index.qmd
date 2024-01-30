@@ -28,3 +28,13 @@ format:
     <button class="button-61">2023/24 Semester 2</button>
 </a>
 
+**Archived:**
+
+none
+
+**See Research Statistics 1:**
+
+<a href="https://tjhsststats.github.io/RGuides/">
+    <button class="button-61">Research Statistics 1</button>
+</a>
+
