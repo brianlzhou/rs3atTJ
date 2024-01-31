@@ -9,7 +9,7 @@ format: html
 
 # 🛑️ Course Guidelines
 
-## Grading
+## 📝 Grading
 Assignments will be graded, and grades will be posted in SIS within 7 school days after the due
 date with the understanding that major projects/papers may require additional time to ensure
 quality feedback. SIS is the gradebook of record. Students taking the RS2 course in the fall will
@@ -35,7 +35,7 @@ The end-of-course grade will be based on a rolling gradebook for daily assignmen
 be worth 80% of the overall grade for the course. The final exam/project will be worth 20% of
 the overall grade for the course
 
-## Assignments:
+## 📤 Assignments:
 
 ### Homework:
 Many activities including group work will be completed during class time. Each day there will be a short individual assignment that needs to be completed on your own. This is due the class period after it is assigned. 
