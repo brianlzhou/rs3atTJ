@@ -250,13 +250,22 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <hr>
 <p><strong>Select Academic Year/Term:</strong></p>
-<p><a href="./2024s2/index.html"> <button class="button-61">2023/24 Semester 2</button> </a></p>
+<p><a href="./2024s2/index.html" id="myLink"> <button class="button-61">2023/24 Semester 2</button> </a></p>
 <p><strong>Archived:</strong></p>
 <p>none</p>
 <p><strong>See Research Statistics 1:</strong></p>
 <!-- <a href="https://tjhsststats.github.io/RGuides/">
     <button class="button-61">Research Statistics 1</button>
 </a> -->
+<script>
+    document.getElementById('myLink').addEventListener('click', function(event) {
+        event.preventDefault();  // Prevent default anchor behavior
+        var goTo = this.getAttribute("href"); // Store href value
+
+        // Logic to open the link in the same tab
+        window.location.href = goTo;
+    });
+</script>
 
 
 </section>
