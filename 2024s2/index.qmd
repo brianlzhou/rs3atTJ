@@ -33,7 +33,7 @@ Office Hours:
 - **Where:** Room 14
 - **How to book:** Sign up for "[Math tutoring (Scott) - RS2/3](https://ion.tjhsst.edu/eighth/activity/415)"
 
-## Teaching Staff
+## Teaching Assistant
 
 <!-- ![](/figures/people/ta_octopunian.png){fig-align="left" fig-alt="Photo of TA_NAME" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}  -->
 **[Brian Zhou](#)** <br/>

@@ -24,7 +24,7 @@ format:
 
 **Select Academic Year/Term:**
 
-<a href="2024s2/index.qmd" id="myLink">
+<a href="2024s2/index.qmd">
     <button class="button-61">2023/24 Semester 2</button>
 </a>
 
@@ -34,11 +34,11 @@ none
 
 **See Research Statistics 1:**
 
-<!-- <a href="https://tjhsststats.github.io/RGuides/">
+<a href="https://tjhsststats.github.io/RGuides/">
     <button class="button-61">Research Statistics 1</button>
-</a> -->
+</a> 
 
-<script>
+<!-- <script>
     document.getElementById('myLink').addEventListener('click', function(event) {
         event.preventDefault();  // Prevent default anchor behavior
         var goTo = this.getAttribute("href"); // Store href value
@@ -46,4 +46,4 @@ none
         // Logic to open the link in the same tab
         window.location.href = goTo;
     });
-</script>
+</script> -->
