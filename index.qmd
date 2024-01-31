@@ -34,7 +34,7 @@ none
 
 **See Research Statistics 1:**
 
-<a href="https://tjhsststats.github.io/RGuides/">
+<!-- <a href="https://tjhsststats.github.io/RGuides/">
     <button class="button-61">Research Statistics 1</button>
-</a>
+</a> -->
 
