@@ -8,7 +8,9 @@ format:
 
 # 📑 Course Brief
 
-**Focus:** Research Statistics 3 is an advanced high school course in statistics.	
+Research Statistics 3 is an advanced high school course in statistics.	
+
+**Description:** Students will use statistics as a tool to solve a variety of problems in different areas, including political science, economics, sports, ecology, law, and the biological and physical sciences. Extensive use of the calculator and computer is included. The course emphasizes critical thinking and clear, precise writing. Prerequisite: Research Statistics 1 and 2
 
 **How:** hands-on learning
 
