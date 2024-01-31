@@ -44,10 +44,10 @@ website:
       #       text: "👥 Group Project"
       - section: "🗓️ Weeks"
         contents:
-         - href: 2023/weeks/week01/page.qmd
+         - href: 2024s2/weeks/week01/page.qmd
            text: Week 01
            contents:
-             - href: 2023/weeks/week01/page.qmd
+             - href: 2024s2/weeks/week01/page.qmd
                text: 👨‍🏫 Lecture Material
             #  - href: 2023/weeks/week01/lab.qmd
             #    text: 💻 Lab Roadmap

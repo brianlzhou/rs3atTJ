@@ -1,76 +1,10 @@
 ---
-title: "MATH 3190T3 -- TJ RESEARCH STATISTICS III"
-subtitle: "Academic Year: 2023/24"
+title: "Syllabus"
 format: html
 ---
 
-::: {.callout-important collapse=false}
-## 📢 Important
+# 🛑️ Course Guidelines
+## testest
 
-(1/30/2024)
-
-- Welcome to the site!
-- [🗓️ Week 01 lecture material](/2023/weeks/week01/page.qmd) is now available!
-
-:::
-
-
-# 🧑🏻‍🏫 Our Team
-
-::: {.panel-tabset}
-## Course Convenor
-
-
-<!-- ![](/figures/people/professor_octopus.png){fig-align="left" fig-alt="Photo of Dr. MY NAME" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}  -->
-**[Dr. Scott](https://tjhsst.fcps.edu/staff/catherine-scott)** <br/> 
-Instructor <br/>
-[TJHSST](https://tjhsst.fcps.edu)</a><br/>
-📧 [cescott@fcps.edu](mailto:cescott@fcps.edu)
-
-Office Hours: 
-
-- **When:** Friday 8A
-- **Where:** Room 14
-- **How to book:** Sign up for "[Math tutoring (Scott) - RS2/3](https://ion.tjhsst.edu/eighth/activity/415)"
-
-## Teaching Staff
-
-<!-- ![](/figures/people/ta_octopunian.png){fig-align="left" fig-alt="Photo of TA_NAME" style="object-fit: cover;width:5em;height:5em;border-radius: 50%;"}  -->
-**[Brian Zhou](#)** <br/>
-a senior lol <br> 
-📧 [2024bzhou@tjhsst.edu](mailto:2024bzhou@tjhsst.edu)
-
-Office Hours: 
-
-- **When:** message me
-
-:::
-
-# 💻 Periods
-
-::: {style="display:inline-block;width: 28.5%;border-style: dotted;border-width: 1px;border-color: &quot;#fefefe&quot;; margin:1%;padding:1.5%;background-color:#fafafa"}
-**3rd Period**
-
-- 📆 Monday:
-- 🕚 11:00 - 11:40
-- 📆 Tuesday/Thursday:
-- 🕝 2:25 - 4:00
-
-:::
-
-::: {style="display:inline-block;width: 28.5%;border-style: dotted;border-width: 1px;border-color: &quot;#fefefe&quot;; margin:1%;padding:1.5%;background-color:#fafafa"}
-**Group 02**
-
-- 📆 Mondays
-
-            
-:::
-
-::: {style="display:inline-block;width: 28.5%;border-style: dotted;border-width: 1px;border-color: &quot;#fefefe&quot;; margin:1%;padding:1.5%;background-color:#fafafa"}
-**Group 03**
-
-- 📆 Fridays
-- ⌚ 16:00 - 17:30
-- 📍 
-- 🧑‍🏫 _TA_NAME_
-:::
+# 📁 PDF
+{{< pdf syllabus.pdf width=100% height=800 >}}
