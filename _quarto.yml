@@ -29,6 +29,8 @@ website:
         contents:
          - href: 2024s2/info/syllabus.qmd
            text: "📓 Syllabus"
+         - href: 2024s2/info/textbook.qmd
+           text: "📖 Textbook"
          - href: 2024s2/info/usingr.qmd
            text: "📋 Using R"
       # - href: 2023/communication.qmd
