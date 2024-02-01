@@ -4,53 +4,10 @@ format: html
 ---
 
 # 📖️ Textbook
-
-## 📝 Grading
-Assignments will be graded, and grades will be posted in SIS within 7 school days after the due
-date with the understanding that major projects/papers may require additional time to ensure
-quality feedback. SIS is the gradebook of record. Students taking the RS2 course in the fall will
-take the AP exam in May of the spring semester.
-
-### Gradebook
-Grades are calculated using a rolling (continuous) gradebook and will be recorded as points and converted to percentages and then to letters for report card grades by dividing the number of points earned by the number of points possible. The Fairfax County grading scale is:
-A (92.5-100) = 4.0 B+ (86.5-89.4) = 3.3 C+ (76.5-79.4) = 2.3 D+ (66.5-69.4) = 1.3
-A- (89.5-92.4) = 3.7 B (82.5-86.4) = 3.0 C (72.5-76.4) = 2.0 D (63.5-66.4) = 1.0
-B- (79.5-82.4) = 2.7 C- (69.5-72.4) = 1.7 F (below 63.5) = 0.0
-Grades will be rounded using standard mathematical rounding convention. For example, 92.5 would round up to an A, while a grade of 92.49 would remain an A-. This class will use a rolling gradebook and total points. No one assignment will greatly impact the overall grade in the course. Grades for individual assignments will be available through Schoology and SIS.
-
-### Quarter Grades:
-The quarter grade will be determined by the percentage of points earned out of points assigned. Some example assignments include, reading quizzes, group practice, individual practice, progress checks, and summative assessments.
- - No one assignment or assessment will count for more than 30% of the total quarter grade.
- - Homework is limited to no more than 10% of the total quarter grade.
- - Per grading and reporting, there will be at a minimum 9 grades per quarter.
-
- 
-### Final Grades:
-The end-of-course grade will be based on a rolling gradebook for daily assignments, which will be worth 80% of the overall grade for the course. The final exam/project will be worth 20% of the overall grade for the course
-
-## 📤 Assignments:
-
-### Homework:
-Many activities including group work will be completed during class time. Each day there will be a short individual assignment that needs to be completed on your own. This is due the class period after it is assigned. 
-
-### Late Work:
-The current policy establishes the length of time that teachers must accept late work on major assessments (two weeks) and the maximum deduction for that time period (10%).
- - Practices around the use of the 50% as a minimum grade: Teachers may give zeroes for assignments that are not turned in.
-
-Due to the way content knowledge builds from day to day in statistics, it is important to complete all assignments on time. __**Minor Assignments**__ (i.e., classwork, reading quizzes, group activities, progress checks) will be accepted late with a penalty of 50% if submitted within two weeks after the due date. After two weeks, a score of 0 will be recorded. Please contact your teacher in advance to make arrangements if you know you will be absent and not be able to submit work or take an assessment on time.
-
-### Retakes/Revision:
-For __**major assessments**__, one new opportunity to demonstrate proficiency shall be provided to any student who scores below an 80% and completes corrective action. Midterms and finals are exempt from the retake policy. Major assessments are tasks weighted more than 10% of you grade. Students who scored less than 80% on a major assessment would be eligible for a retest that will be scheduled during 8th period. If the student scores lower on the retake, the higher of the two grades will be recorded, but replacement grade will not exceed 80%. To be eligible, you must complete and turn in test corrections for the test within one week of when the test is returned to the class.
-
-:::{.callout-note}
-Score improvement does not apply to minor assessments (i.e., quizzes, progress checks) midterm and the final exam. 
-:::
-
-### Final Exam:
-There will be an end-of-course project that will be the final exam. More details and supporting documents will be available after the AP exams are completed. The final project is a major writing assignment, you will be required to post your papers on SafeAssign.
-
-### Makeup Policy
-If you know you will be absent, please contact your teacher to plan for making-up work. If you unexpectedly miss class, contact your teacher and your group members to plan to complete missed content. If you are absent for one day, you will have a day to submit make-up work. If you need to be absent for an extended amount of time, please contact your teacher to come up with a plan for submitting makeup work. 
-
-# 📁 PDF
 {{< pdf syllabus.pdf width=100% height=800 >}}
+
+# R Companion
+{{< pdf Stat2RCompanion.pdf width=100% height=800 >}}
+
+# 📝 Errata
+{{< pdf stat2_2e_book_errata.pdf width=100% height=800 >}}
