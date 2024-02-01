@@ -4,7 +4,7 @@ format: html
 ---
 
 # 📖️ Textbook
-{{< pdf syllabus.pdf width=100% height=800 >}}
+{{< pdf stat2_book.pdf width=100% height=800 >}}
 
 # R Companion
 {{< pdf Stat2RCompanion.pdf width=100% height=800 >}}
