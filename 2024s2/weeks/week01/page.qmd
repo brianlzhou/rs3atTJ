@@ -7,7 +7,7 @@ In this first week, we will cover what you can expect to learn from this course 
 # Objective
 Install RStudio and begin getting comfortable with this platform
 
-Go to: https://tjhsststats.github.io/RGuides/installing-r-and-rstudio.html
+Go to: [https://tjhsststats.github.io/RGuides/installing-r-and-rstudio.html](https://tjhsststats.github.io/RGuides/installing-r-and-rstudio.html)
 
 On the left navigation Complete:
 
@@ -25,7 +25,7 @@ You may find it helpful to keep a syntax document handy. There is a document “
 Look at the list on this document and use the function below to install packages of interest
 
 ```{r}
-install.packages("     ")
+install.packages(c('readr', 'ggplot2', 'tidyr'))
 ```
 
 # Lesson
