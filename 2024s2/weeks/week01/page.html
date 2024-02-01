@@ -8,7 +8,7 @@
 
 <meta name="author" content="Dr.&nbsp;Scott">
 
-<title>Research Statistics III 2023/24 - 🗓️ Week 01 - Introduction, Context &amp; Key Concepts</title>
+<title>Research Statistics III 2023/24 - 🗓️ Week 0 - Introduction to R and RStudio</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -72,10 +106,10 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../../../css/custom_style.css">
 <link rel="stylesheet" href="../../../css/syllabus.css">
-<meta property="og:title" content="Research Statistics III 2023/24 - 🗓️ Week 01 - Introduction, Context &amp; Key Concepts">
+<meta property="og:title" content="Research Statistics III 2023/24 - 🗓️ Week 0 - Introduction to R and RStudio">
 <meta property="og:description" content="">
 <meta property="og:site_name" content="Research Statistics III 2023/24">
-<meta name="twitter:title" content="Research Statistics III 2023/24 - 🗓️ Week 01 - Introduction, Context &amp; Key Concepts">
+<meta name="twitter:title" content="Research Statistics III 2023/24 - 🗓️ Week 0 - Introduction to R and RStudio">
 <meta name="twitter:description" content="">
 <meta name="twitter:creator" content="@brian1zhou">
 <meta name="twitter:site" content="\@brian1zhou">
@@ -189,10 +223,14 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link active" data-scroll-target="#lecture-slides">👨‍🏫 Lecture Slides</a></li>
+  <li><a href="#objective" id="toc-objective" class="nav-link active" data-scroll-target="#objective">Objective</a></li>
+  <li><a href="#lesson" id="toc-lesson" class="nav-link" data-scroll-target="#lesson">Lesson</a>
+  <ul class="collapse">
+  <li><a href="#lecture-slides" id="toc-lecture-slides" class="nav-link" data-scroll-target="#lecture-slides">👨‍🏫 Lecture Slides</a></li>
   <li><a href="#coursework" id="toc-coursework" class="nav-link" data-scroll-target="#coursework">✍️ Coursework</a></li>
   <li><a href="#recommended-reading" id="toc-recommended-reading" class="nav-link" data-scroll-target="#recommended-reading">📚 Recommended Reading</a></li>
   <li><a href="#communication" id="toc-communication" class="nav-link" data-scroll-target="#communication">📟 Communication</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -201,7 +239,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../../2024s2/weeks/week01/page.html">🗓️ Weeks</a></li><li class="breadcrumb-item"><a href="../../../2024s2/weeks/week01/page.html">Week 01</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">🗓️ Week 01 - Introduction, Context &amp; Key Concepts</h1>
+<h1 class="title">🗓️ Week 0 - Introduction to R and RStudio</h1>
 </div>
 
 
@@ -225,6 +263,40 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course.</p>
+<section id="objective" class="level1">
+<h1>Objective</h1>
+<p>Install RStudio and begin getting comfortable with this platform</p>
+<p>Go to: https://tjhsststats.github.io/RGuides/installing-r-and-rstudio.html</p>
+<p>On the left navigation Complete:</p>
+<ul>
+<li>Installing RStudio</li>
+<li>Working with Data</li>
+<li>Presenting Data</li>
+<li>Sampling and Probability</li>
+<li>Two-Variable Data: Scatterplots and Regression</li>
+<li>Sampling Distributions and Confidence Intervals</li>
+<li>Significance Tests</li>
+<li>Data Wrangling</li>
+</ul>
+<p>You may find it helpful to keep a syntax document handy. There is a document “Rsyntax-comparison.pdf” in the Syllabus Folder on Schoology that will help.</p>
+<p>Look at the list on this document and use the function below to install packages of interest</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"     "</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Installing package into '/home/runner/work/_temp/Library'
+(as 'lib' is unspecified)</code></pre>
+</div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Warning: package '     ' is not available for this version of R
+
+A version of this package for your version of R might be available elsewhere,
+see the ideas at
+https://cran.r-project.org/doc/manuals/r-patched/R-admin.html#Installing-packages</code></pre>
+</div>
+</div>
+</section>
+<section id="lesson" class="level1">
+<h1>Lesson</h1>
 <section id="lecture-slides" class="level2">
 <h2 class="anchored" data-anchor-id="lecture-slides">👨‍🏫 Lecture Slides</h2>
 <p>Either click on the slide area below or click <a href="../../../2024s2/weeks/week01/slides.html">here</a> to view it in fullscreen. Use your keypad to navigate the slides.</p>
@@ -251,6 +323,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
