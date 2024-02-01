@@ -7,7 +7,7 @@ format: html
 RS3 uses the textbook “STAT 2: Modeling with Regression and ANOVA, 2nd Edition”
 {{< pdf stat2_book.pdf width=100% height=800 >}}
 
-# R Companion
+# 💻 R Companion
 {{< pdf Stat2RCompanion.pdf width=100% height=800 >}}
 
 # 📝 Errata
