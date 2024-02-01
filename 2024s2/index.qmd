@@ -54,7 +54,7 @@ Office Hours:
 - 📆 Monday:
 - 🕚 11:00 - 11:40
 - 📆 Tuesday/Thursday:
-- 🕝 2:25 - 4:00
+- 🕧 12:40 - 2:15
 
 :::
 
@@ -62,7 +62,7 @@ Office Hours:
 **4th Period**
 
 - 📆 Monday:
-- 🕚 11:00 - 11:40
+- 🕐 12:50 - 1:30
 - 📆 Tuesday/Thursday:
 - 🕝 2:25 - 4:00
 
@@ -72,9 +72,9 @@ Office Hours:
 **5th Period**
 
 - 📆 Monday:
-- 🕚 11:00 - 11:40
-- 📆 Tuesday/Thursday:
-- 🕝 2:25 - 4:00
+- 🕝 2:30 - 3:10
+- 📆 Wednesday/Friday:
+- 🕣 8:40 - 10:15
 
 :::
 
@@ -82,8 +82,8 @@ Office Hours:
 **6th Period**
 
 - 📆 Monday:
-- 🕚 11:00 - 11:40
-- 📆 Tuesday/Thursday:
-- 🕝 2:25 - 4:00
+- 🕞 3:20 - 4:00
+- 📆 Wednesday/Friday:
+- 🕥 10:25 - 12:00
 
 :::
