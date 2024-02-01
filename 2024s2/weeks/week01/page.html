@@ -266,7 +266,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="objective" class="level1">
 <h1>Objective</h1>
 <p>Install RStudio and begin getting comfortable with this platform</p>
-<p>Go to: https://tjhsststats.github.io/RGuides/installing-r-and-rstudio.html</p>
+<p>Go to: <a href="https://tjhsststats.github.io/RGuides/installing-r-and-rstudio.html">https://tjhsststats.github.io/RGuides/installing-r-and-rstudio.html</a></p>
 <p>On the left navigation Complete:</p>
 <ul>
 <li>Installing RStudio</li>
@@ -281,17 +281,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>You may find it helpful to keep a syntax document handy. There is a document “Rsyntax-comparison.pdf” in the Syllabus Folder on Schoology that will help.</p>
 <p>Look at the list on this document and use the function below to install packages of interest</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="st">"     "</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">install.packages</span>(<span class="fu">c</span>(<span class="st">'readr'</span>, <span class="st">'ggplot2'</span>, <span class="st">'tidyr'</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
-<pre><code>Installing package into '/home/runner/work/_temp/Library'
+<pre><code>Installing packages into '/home/runner/work/_temp/Library'
 (as 'lib' is unspecified)</code></pre>
 </div>
 <div class="cell-output cell-output-stderr">
-<pre><code>Warning: package '     ' is not available for this version of R
-
-A version of this package for your version of R might be available elsewhere,
-see the ideas at
-https://cran.r-project.org/doc/manuals/r-patched/R-admin.html#Installing-packages</code></pre>
+<pre><code>also installing the dependencies 'bit', 'prettyunits', 'bit64', 'progress', 'generics', 'clipr', 'crayon', 'hms', 'vroom', 'cpp11', 'tzdb', 'dplyr', 'purrr', 'tidyselect'</code></pre>
 </div>
 </div>
 </section>
