@@ -75,6 +75,28 @@
     ]
   },
   {
+    "objectID": "2024s2/weeks/week01/page.html#objective",
+    "href": "2024s2/weeks/week01/page.html#objective",
+    "title": "🗓️ Week 0 - Introduction to R and RStudio",
+    "section": "Objective",
+    "text": "Objective\nInstall RStudio and begin getting comfortable with this platform",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 01"
+    ]
+  },
+  {
+    "objectID": "2024s2/weeks/week01/page.html#material",
+    "href": "2024s2/weeks/week01/page.html#material",
+    "title": "🗓️ Week 0 - Introduction to R and RStudio",
+    "section": "Material",
+    "text": "Material\nGo to: https://tjhsststats.github.io/RGuides/installing-r-and-rstudio.html\nOn the left navigation Complete:\n\nInstalling RStudio\nWorking with Data\nPresenting Data\nSampling and Probability\nTwo-Variable Data: Scatterplots and Regression\nSampling Distributions and Confidence Intervals\nSignificance Tests\nData Wrangling\n\nYou may find it helpful to keep a syntax document handy. There is a document “Rsyntax-comparison.pdf” in the Syllabus Folder on Schoology that will help.\nLook at the list on this document and use the function below to install packages of interest\n\ninstall.packages(c('readr', 'ggplot2', 'tidyr'))\n\nInstalling packages into '/home/runner/work/_temp/Library'\n(as 'lib' is unspecified)\n\n\nalso installing the dependencies 'bit', 'prettyunits', 'bit64', 'progress', 'generics', 'clipr', 'crayon', 'hms', 'vroom', 'cpp11', 'tzdb', 'dplyr', 'purrr', 'tidyselect'\n\n\nThe data sets that we will be using this semester are located on the publishers website at:\nhttps://www.macmillanlearning.com/studentresources/college/collegebridgepage/stat22e.html#anchor1\nYou may want to begin importing Chapter 0 files.",
+    "crumbs": [
+      "🗓️ Weeks",
+      "Week 01"
+    ]
+  },
+  {
     "objectID": "2024s2/weeks/week01/page.html#lecture-slides",
     "href": "2024s2/weeks/week01/page.html#lecture-slides",
     "title": "🗓️ Week 0 - Introduction to R and RStudio",
