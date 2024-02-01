@@ -4,8 +4,12 @@ title: "🗓️ Week 0 - Introduction to R and RStudio"
 
 In this first week, we will cover what you can expect to learn from this course and the course logistics: all you need to know about the structure of the lectures, classes, assessments, and how we will interact throughout this course. 
 
-# Objective
+# Lesson
+
+## Objective
 Install RStudio and begin getting comfortable with this platform
+
+## Material
 
 Go to: [https://tjhsststats.github.io/RGuides/installing-r-and-rstudio.html](https://tjhsststats.github.io/RGuides/installing-r-and-rstudio.html)
 
@@ -28,8 +32,11 @@ Look at the list on this document and use the function below to install packages
 install.packages(c('readr', 'ggplot2', 'tidyr'))
 ```
 
-# Lesson
+The data sets that we will be using this semester are located on the publishers website at:
 
+[https://www.macmillanlearning.com/studentresources/college/collegebridgepage/stat22e.html#anchor1](https://www.macmillanlearning.com/studentresources/college/collegebridgepage/stat22e.html#anchor1)
+
+You may want to begin importing Chapter 0 files.
 
 ## 👨‍🏫 Lecture Slides 
 
